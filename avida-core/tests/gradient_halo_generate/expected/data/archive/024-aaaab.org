@@ -1,0 +1,45 @@
+# Wed Jun 20 10:10:44 2012
+# Filename........: archive/024-aaaab.org
+# Update Output...: 20
+# Is Viable.......: 0
+# Repro Cycle Size: 0
+# Depth to Viable.: -1
+# 
+# Generation: 0
+# Merit...........: 24.000000
+# Gestation Time..: 0
+# Fitness.........: 0.000000
+# Errors..........: 0
+# Genome Size.....: 24
+# Copied Size.....: 24
+# Executed Size...: 24
+# Offspring.......: NONE
+# 
+# Tasks Performed:
+# live-on-patch-id 0 (0.000000)
+
+
+if-not-0
+zero
+nop-B
+zero
+nop-C
+nop-B
+nop-C
+nop-C
+nop-C
+nop-C
+nop-C
+nop-C
+nop-C
+nop-C
+IO
+nop-C
+nop-C
+nop-C
+IO
+nop-C
+nop-C
+nop-C
+rotate-to-unoccupied-cell
+repro

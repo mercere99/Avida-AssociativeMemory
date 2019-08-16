@@ -1,0 +1,21 @@
+# Avida Standard Error Data
+# Fri Aug  3 12:07:13 2012
+#  1: Update
+#  2: Merit
+#  3: Gestation Time
+#  4: Fitness
+#  5: Repro Rate?
+#  6: Size
+#  7: Copied Size
+#  8: Executed Size
+#  9: Abundance
+# 10: (No Data)
+# 11: (No Data)
+# 12: Genotype Depth
+# 13: Generation
+# 14: Neutral Metric
+# 15: Lineage Label
+# 16: True Replication Rate (based on births/update, time-averaged)
+
+0 0 0 0 0 109 0 0 0 -1 -1 0 0 0 0 0 
+750 0 634.73 0.0681466 0 29.8902 0.0386256 0.04125 0.802978 -1 -1 0.205229 0.294341 0.248492 0 1.31118 

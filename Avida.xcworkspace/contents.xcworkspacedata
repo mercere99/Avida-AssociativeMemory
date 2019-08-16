@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:avida-core/Avida-Core.xcodeproj">
+   </FileRef>
+   <Group
+      location = "container:"
+      name = "Applications">
+      <FileRef
+         location = "group:apps/viewer-macos/viewer-macos.xcodeproj">
+      </FileRef>
+   </Group>
+   <Group
+      location = "container:"
+      name = "Libraries">
+      <FileRef
+         location = "group:libs/apto/Apto.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:apps/viewer-macos/frameworks/CorePlot/CorePlot.xcodeproj">
+      </FileRef>
+      <FileRef
+         location = "group:libs/tcmalloc-1.4/TCMalloc-1.4.xcodeproj">
+      </FileRef>
+   </Group>
+   <FileRef
+      location = "group:CMakeLists.txt">
+   </FileRef>
+   <FileRef
+      location = "group:README">
+   </FileRef>
+</Workspace>
